@@ -11,15 +11,15 @@
 
 ## 🔗 About
 
-<p style="font-size:18px">
+<p align="justify" style="font-size:19px">
 I am a Computer Science & Engineering student at <b>Daffodil International University</b> with a strong interest in software engineering and frontend development.
 </p>
 
-<p style="font-size:18px">
+<p align="justify" style="font-size:19px">
 I enjoy building responsive, maintainable, and user-focused web applications using modern technologies. My current focus is on strengthening my skills in <b>React.js</b>, <b>JavaScript</b>, <b>Python</b>, <b>data structures & algorithms</b>, and software development practices.
 </p>
 
-<p style="font-size:18px">
+<p align="justify" style="font-size:19px">
 I am continuously working on academic and personal projects to turn concepts into practical solutions and grow as a software engineer.
 </p>
 
@@ -43,7 +43,7 @@ I am continuously working on academic and personal projects to turn concepts int
 
 ## 🔗 Current Focus
 
-<p style="font-size:18px">
+<p style="font-size:19px">
 
 - Building modern and responsive React applications
 - Improving JavaScript and frontend architecture
