@@ -1,105 +1,153 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ruhulamin18/ruhulamin18/main/profile-header.svg" width="100%"/>
+<!-- HEADER -->
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Ruhul%20Amin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20and%20Engineering%20Student%20-%20Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- TYPING -->
 
 <a href="https://github.com/ruhulamin18">
-  <img src="https://readme-typing-svg.demolab.com/?lines=From+Ideas+to+Practical+Software;Building+Responsive+Web+Applications;React.js+%7C+Next.js+Developer;Learning+%26+Building+Every+Day&font=Fira+Code&center=true&width=650&height=45&color=00E0FF&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+responsive+web+applications;React.js+%7C+Next.js+Developer;Turning+ideas+into+practical+projects;Learning+and+Building+Every+Day&font=Fira+Code&center=true&width=650&height=45&color=00E0FF&vCenter=true&size=22"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<!-- BADGES -->
 
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-203a43?style=for-the-badge&labelColor=555555"/>
-  <img src="https://img.shields.io/badge/FRONTEND-REACT.JS-20232A?style=for-the-badge&labelColor=555555"/>
-  <img src="https://img.shields.io/badge/NEXT.JS-LEARNING-000000?style=for-the-badge&labelColor=555555"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0f2027?style=for-the-badge&logo=code&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/Frontend-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-2ea44f?style=for-the-badge"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/UNIVERSITY-DAFFODIL%20INTERNATIONAL%20UNIVERSITY-0077B5?style=for-the-badge&labelColor=555555"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-32CD32?style=for-the-badge&labelColor=555555"/>
+  <img src="https://img.shields.io/badge/University-Daffodil%20International%20University-0077B5?style=for-the-badge"/>
 </p>
 
+<!-- SOCIAL LINKS -->
+
 <p>
-  <a href="https://mdruhulamin18.vercel.app">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/md-ruhul-amin-r018">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://mdruhulamin18.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="https://www.facebook.com/ruhulamin.ridoy018">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/md-ruhul-amin-r018">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/ruhulamin18">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.facebook.com/ruhulamin.ridoy018">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ruhulamin18">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-## 🛰️ About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-I am a **Computer Science & Engineering student** at **Daffodil International University** with a strong interest in **software engineering and frontend development**.
+<!-- ABOUT -->
 
-I enjoy building responsive, maintainable, and user-focused web applications using modern technologies. My current focus is on **React.js, JavaScript, Next.js, Python, Data Structures & Algorithms**, and modern software development practices.
+## 👨‍💻 About Me
 
-I work on academic and personal projects to turn programming concepts into practical software solutions while continuously improving my development skills.
+I am a **Computer Science & Engineering student** at **Daffodil International University** with a strong interest in **Software Engineering and Frontend Development**.
+
+I enjoy building responsive, maintainable, and user-focused web applications using modern technologies. My primary focus is on **React.js, JavaScript, Next.js, Tailwind CSS, and modern frontend development**.
+
+I also work with **C, C++, Java, Python, Flask, MySQL, Git, and GitHub**, while continuously improving my **Data Structures & Algorithms** and software engineering fundamentals.
+
+I believe in learning by building — turning ideas, academic concepts, and real-world problems into practical software solutions.
 
 <br/>
 
+<!-- WHAT I BUILD -->
+
 ## 🧩 What I Build
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🌐 Frontend Development</h3>
-      <p>Building responsive and user-focused web applications using modern frontend technologies.</p>
-    </td>
+<table align="center">
+<tr>
 
-    <td width="33%" align="center" valign="top">
-      <h3>⚛️ React & Next.js</h3>
-      <p>Developing modern web applications with React.js and learning Next.js for modern frontend development.</p>
-    </td>
+<td width="33%" align="center" valign="top">
 
-    <td width="33%" align="center" valign="top">
-      <h3>💻 Software Projects</h3>
-      <p>Turning academic concepts and ideas into practical software projects.</p>
-    </td>
-  </tr>
+### 🌐 Frontend Development
+
+Building responsive and user-focused web applications with modern frontend technologies.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚛️ React & Next.js
+
+Developing modern applications with React.js and exploring Next.js for scalable web development.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 💻 Software Projects
+
+Turning academic concepts and real-world ideas into practical software solutions.
+
+</td>
+
+</tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- TECH STACK -->
 
 ## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nextjs,tailwind,vite,flask,mysql,git,github,vscode,vercel&theme=dark&perline=9"/>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark"/>
+
+<br/><br/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark"/>
+
+<br/><br/>
+
+### 🛠️ Backend, Database & Tools
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode,vercel&theme=dark"/>
 
 </div>
 
 <br/>
 
+<!-- CURRENT FOCUS -->
+
 ## 🎯 Current Focus
 
 - 🚀 Building modern and responsive React applications
-- 📚 Learning and working with Next.js
+- ⚛️ Learning and working with Next.js
 - ⚡ Improving JavaScript and frontend architecture
+- 🎨 Improving UI implementation and responsive design
 - 🧠 Strengthening Data Structures & Algorithms
-- 🐍 Developing skills in Python
+- 🐍 Improving Python programming skills
 - 🤖 Exploring Machine Learning
-- 🛠️ Learning better software engineering and development practices
+- 🛠️ Improving software engineering practices
 - 💻 Building and deploying practical software projects
 
 <br/>
+
+<!-- SKILLS -->
 
 ## 🧠 Development Skills
 
@@ -107,16 +155,99 @@ I work on academic and personal projects to turn programming concepts into pract
 | :--- | :--- |
 | **Programming** | C, C++, Java, Python |
 | **Frontend** | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| **Frameworks & Tools** | Next.js, React.js, Vite, Flask |
+| **Frameworks** | Next.js, React.js, Vite, Flask |
 | **Database** | MySQL |
 | **Version Control** | Git, GitHub |
 | **Development Tools** | VS Code |
 | **Deployment** | Vercel |
-| **Learning** | Python, Machine Learning, Data Structures & Algorithms |
+| **Currently Learning** | Next.js, Python, Machine Learning, DSA |
 
 <br/>
 
-## 📌 What I'm Learning
+<!-- PROJECTS -->
+
+## 🚀 Featured Projects
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+
+A web-based student management application built with **Flask and MySQL**.
+
+**Key Features**
+- Student management
+- Attendance management
+- Department management
+- CRUD operations
+- MySQL database integration
+- Database triggers
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+A software project designed to manage library operations and simplify book management.
+
+**Key Features**
+- Book management
+- Student/member management
+- Issue and return management
+- Database operations
+- User-friendly interface
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🅿️ Parking Management System
+
+A practical parking management application developed using **Python Flask and MySQL**.
+
+**Key Features**
+- Vehicle entry and exit
+- Parking slot management
+- User management
+- Database integration
+- Web-based interface
+- Deployment with Render
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A modern personal portfolio website showcasing my skills, projects, and development journey.
+
+**Technologies**
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
+- Framer Motion
+- Vercel
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<!-- LEARNING -->
+
+## 📚 What I'm Learning
 
 <div align="center">
 
@@ -126,23 +257,25 @@ I work on academic and personal projects to turn programming concepts into pract
 
 ### 🏗️ Software Engineering
 
-`Data Structures & Algorithms` • `Software Development Practices` • `Practical Project Development`
+`Data Structures & Algorithms` • `Clean Code` • `Software Development` • `Project Architecture`
 
 ### 🤖 Exploring
 
-`Machine Learning`
+`Python` • `Machine Learning` • `Artificial Intelligence`
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- GITHUB ACTIVITY -->
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruhulamin18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E0FF&icon_color=00E0FF"/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=ruhulamin18&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF"/>
+<img src="https://streak-stats.demolab.com/?user=ruhulamin18&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" width="70%"/>
 
 <br/><br/>
 
@@ -152,29 +285,51 @@ I work on academic and personal projects to turn programming concepts into pract
 
 <br/>
 
-## 🔗 Connect With Me
+<!-- GITHUB -->
+
+## 🐙 GitHub
 
 <div align="center">
 
-<a href="https://mdruhulamin18.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-ruhul-amin-r018">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/ruhulamin.ridoy018">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 <a href="https://github.com/ruhulamin18">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ruhulamin18?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-0f2027?style=for-the-badge&logo=github&logoColor=00E0FF"/>
 </a>
 
 </div>
 
 <br/>
+
+<!-- CONNECT -->
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://mdruhulamin18.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-ruhul-amin-r018">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/ruhulamin.ridoy018">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ruhulamin18">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
 
 <div align="center">
 
@@ -182,8 +337,8 @@ I work on academic and personal projects to turn programming concepts into pract
 
 <br/>
 
-<h3>Md. Ruhul Amin</h3>
+### Md. Ruhul Amin
 
-<p><i>Computer Science & Engineering Student | Frontend Developer</i></p>
+**Computer Science & Engineering Student | Frontend Developer**
 
 </div>
