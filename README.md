@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md.%20Ruhul%20Amin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/ruhulamin18/ruhulamin18/main/profile-header.svg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ruhulamin18">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%26+Engineering+Student;Frontend+Developer;React.js+Developer;Learning+Next.js;Building+Practical+Software+Projects&font=Fira+Code&center=true&width=700&height=45&color=00E0FF&vCenter=true&size=21"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=From+Ideas+to+Practical+Software;Building+Responsive+Web+Applications;React.js+%7C+Next.js+Developer;Learning+%26+Building+Every+Day&font=Fira+Code&center=true&width=650&height=45&color=00E0FF&vCenter=true&size=22"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0f2027?style=for-the-badge&logo=code&logoColor=00E0FF"/>
-  <img src="https://img.shields.io/badge/Frontend-React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/University-Daffodil%20International%20University-0077B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-203a43?style=for-the-badge&labelColor=555555"/>
+  <img src="https://img.shields.io/badge/FRONTEND-REACT.JS-20232A?style=for-the-badge&labelColor=555555"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-LEARNING-000000?style=for-the-badge&labelColor=555555"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/UNIVERSITY-DAFFODIL%20INTERNATIONAL%20UNIVERSITY-0077B5?style=for-the-badge&labelColor=555555"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-32CD32?style=for-the-badge&labelColor=555555"/>
 </p>
 
 <p>
   <a href="https://mdruhulamin18.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/md-ruhul-amin-r018">
@@ -29,73 +33,50 @@
   <a href="https://www.facebook.com/ruhulamin.ridoy018">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/ruhulamin18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🛰️ About Me
 
-<p align="justify">
+I am a **Computer Science & Engineering student** at **Daffodil International University** with a strong interest in **software engineering and frontend development**.
 
-I am a <b>Computer Science & Engineering student</b> at <b>Daffodil International University</b> with a strong interest in <b>software engineering and frontend development</b>.
-
-</p>
-
-<p align="justify">
-
-I enjoy building responsive, maintainable, and user-focused web applications using modern technologies. My current focus is on <b>React.js, JavaScript, Next.js, Python, Data Structures & Algorithms</b>, and software development practices.
-
-</p>
-
-<p align="justify">
+I enjoy building responsive, maintainable, and user-focused web applications using modern technologies. My current focus is on **React.js, JavaScript, Next.js, Python, Data Structures & Algorithms**, and modern software development practices.
 
 I work on academic and personal projects to turn programming concepts into practical software solutions while continuously improving my development skills.
-
-</p>
 
 <br/>
 
 ## 🧩 What I Build
 
-<table align="center">
-<tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐 Frontend Development</h3>
+      <p>Building responsive and user-focused web applications using modern frontend technologies.</p>
+    </td>
 
-<td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
+      <h3>⚛️ React & Next.js</h3>
+      <p>Developing modern web applications with React.js and learning Next.js for modern frontend development.</p>
+    </td>
 
-### 🌐 Frontend Development
-
-Building responsive and user-focused web applications using modern frontend technologies.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚛️ React & Next.js
-
-Developing modern web applications with React.js and exploring Next.js for scalable frontend development.
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Software Projects
-
-Turning academic concepts and ideas into practical software projects.
-
-</td>
-
-</tr>
+    <td width="33%" align="center" valign="top">
+      <h3>💻 Software Projects</h3>
+      <p>Turning academic concepts and ideas into practical software projects.</p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ⚙️ Tech Stack
 
@@ -109,47 +90,29 @@ Turning academic concepts and ideas into practical software projects.
 
 ## 🎯 Current Focus
 
-- Building modern and responsive React applications
-- Learning and working with Next.js
-- Improving JavaScript and frontend architecture
-- Strengthening Data Structures & Algorithms
-- Developing skills in Python and Machine Learning
-- Learning better software engineering and development practices
-- Building and deploying practical software projects
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruhulamin18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E0FF&icon_color=00E0FF" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin18&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+- 🚀 Building modern and responsive React applications
+- 📚 Learning and working with Next.js
+- ⚡ Improving JavaScript and frontend architecture
+- 🧠 Strengthening Data Structures & Algorithms
+- 🐍 Developing skills in Python
+- 🤖 Exploring Machine Learning
+- 🛠️ Learning better software engineering and development practices
+- 💻 Building and deploying practical software projects
 
 <br/>
 
 ## 🧠 Development Skills
 
-<div align="center">
-
 | Area | Technologies |
 | :--- | :--- |
 | **Programming** | C, C++, Java, Python |
 | **Frontend** | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| **Frameworks** | Next.js, React.js, Vite, Flask |
+| **Frameworks & Tools** | Next.js, React.js, Vite, Flask |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, VS Code |
+| **Version Control** | Git, GitHub |
+| **Development Tools** | VS Code |
 | **Deployment** | Vercel |
 | **Learning** | Python, Machine Learning, Data Structures & Algorithms |
-
-</div>
 
 <br/>
 
@@ -157,17 +120,33 @@ Turning academic concepts and ideas into practical software projects.
 
 <div align="center">
 
-### Frontend Development
+### 🎨 Frontend Development
 
-React.js • Next.js • JavaScript • Tailwind CSS
+`React.js` • `Next.js` • `JavaScript` • `Tailwind CSS`
 
-### Software Engineering
+### 🏗️ Software Engineering
 
-Data Structures & Algorithms • Software Development Practices • Practical Project Development
+`Data Structures & Algorithms` • `Software Development Practices` • `Practical Project Development`
 
-### Future Learning
+### 🤖 Exploring
 
-Python • Machine Learning
+`Machine Learning`
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruhulamin18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E0FF&icon_color=00E0FF"/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=ruhulamin18&theme=tokyonight&hide_border=true&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhulamin18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -189,6 +168,10 @@ Python • Machine Learning
   <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+<a href="https://github.com/ruhulamin18">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
@@ -199,8 +182,8 @@ Python • Machine Learning
 
 <br/>
 
-**Md. Ruhul Amin**
+<h3>Md. Ruhul Amin</h3>
 
-*Computer Science & Engineering Student | Frontend Developer*
+<p><i>Computer Science & Engineering Student | Frontend Developer</i></p>
 
 </div>
